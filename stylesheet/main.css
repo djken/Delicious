@@ -13,3 +13,13 @@
 .fa-lemon{
     color: green;
 }
+
+.navbar-brand{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand img{
+    max-width: 100%;
+    height: auto;}
+
